@@ -1,5 +1,4 @@
 # Tbrain_contest
---
 
 - ***Introduction :*** 
 	<br>This is a contest on [https://tbrain.trendmicro.com.tw/Competitions/Details/6]()
